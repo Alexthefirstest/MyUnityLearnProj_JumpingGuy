@@ -6,10 +6,10 @@ public class SpawnMg : MonoBehaviour
 {
 
     public GameObject obsPrefab;
-    // Start is called before the first frame update
 
     public PlayerController plCtrl;
 
+    // Start is called before the first frame update
     void Start()
     {
         InvokeRepeating("Spawn", 1, 2);

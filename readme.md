@@ -1,0 +1,1 @@
+all of this 4 perfect principles (abstraction etc)  all GroundColorManager
